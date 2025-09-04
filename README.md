@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Data Science<br>🎯 Goals: To be a good developer<br>🎲 Fun fact: I love caffeine</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning to be a good developer<br>🎯 Goals: To make a meaningful difference in technology and beyond<br>🎲 Fun fact: I love caffeine</p>
 
 ###
 
